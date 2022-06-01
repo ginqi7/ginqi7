@@ -13,4 +13,4 @@ Like Writting and Coding.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginqi7)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginqi7)]
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginqi7&theme=github-light)
