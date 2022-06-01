@@ -9,8 +9,12 @@
 I am a Software Engineer.
 Like Writting and Coding.
 
-![ginqi7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginqi7)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ginqi7&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginqi7)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginqi7&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ginqi7&theme=github-light)
+### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginqi7&theme=vue)
+  
+![activity graph](https://activity-graph.herokuapp.com/graph?username=ginqi7&theme=github-light&hide_border=true)
