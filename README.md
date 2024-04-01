@@ -9,6 +9,8 @@
 I am a Software Engineer.
 Like Writting and Coding.
 
+[Buy me a cup of coffee](https://afdian.net/a/ginqi7)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ginqi7&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginqi7&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
