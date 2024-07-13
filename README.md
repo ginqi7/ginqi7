@@ -21,4 +21,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginqi7&theme=vue)
   
-![activity graph](https://activity-graph.herokuapp.com/graph?username=ginqi7&theme=github-light&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ginqi7&theme=github-light&hide_border=true)
