@@ -6,8 +6,10 @@
 
 -->
 
-I am a Software Engineer.
-Like Writting and Coding.
+- A programmer interested in big data, distributed systems.
+- An emacser dedicated to enhancing the efficiency and enjoyment of editing.
+- An amateur enthusiast who enjoys reading and writing.
+- You can see my blog in [there](https://qiqijin.com/)
 
 [Buy me a cup of coffee](https://afdian.net/a/ginqi7)
 
