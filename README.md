@@ -23,6 +23,7 @@
 - **[websocket-bridge](https://github.com/ginqi7/websocket-bridge)** websocket-bridge. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge?style=social">
 - **[sideline-eldoc](https://github.com/ginqi7/sideline-eldoc)** sideline-eldoc. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/sideline-eldoc?style=social">
 - **[auto-browser](https://github.com/ginqi7/auto-browser)** An Emacs plugin for controlling the browser and accessing web pages. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/auto-browser?style=social">
+- **[org-reminders](https://github.com/ginqi7/org-reminders)** An Emacs plugin for interacting between macOS Reminders and org mode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/org-reminders?style=social">
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ginqi7&count_private=true&show_icons=true&include_all_commits=true)
