@@ -11,7 +11,6 @@
 - An amateur enthusiast who enjoys reading and writing.
 - You can see my blog in [there](https://qiqijin.com/)
 
-[Buy me a cup of coffee](https://afdian.net/a/ginqi7)
 
 ### Emacs
 - **[dictionary-overlay](https://github.com/ginqi7/dictionary-overlay)** Emacs 插件-辅助英文阅读. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/dictionary-overlay?style=social">
