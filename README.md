@@ -19,12 +19,21 @@
 - **[plantuml-emacs](https://github.com/ginqi7/plantuml-emacs)** A plantuml plugin for Emacs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/plantuml-emacs?style=social">
 - **[deno-bridge-jieba](https://github.com/ginqi7/deno-bridge-jieba)** deno-bridge-jieba. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/deno-bridge-jieba?style=social">
 - **[image-slicing](https://github.com/ginqi7/image-slicing)** Another method for displaying and scrolling images in Emacs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/image-slicing?style=social">
-- **[websocket-bridge](https://github.com/ginqi7/websocket-bridge)** websocket-bridge. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge?style=social">
+- **[emacs-brew-man](https://github.com/ginqi7/emacs-brew-man)** An Homebrew manager in Emacs. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/emacs-brew-man?style=social">
 - **[sideline-eldoc](https://github.com/ginqi7/sideline-eldoc)** sideline-eldoc. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/sideline-eldoc?style=social">
 - **[auto-browser](https://github.com/ginqi7/auto-browser)** An Emacs plugin for controlling the browser and accessing web pages. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/auto-browser?style=social">
 - **[org-reminders](https://github.com/ginqi7/org-reminders)** An Emacs plugin for interacting between macOS Reminders and org mode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/org-reminders?style=social">
+#### Websocket-bridge
+Some tools enable communication between Emacs and programs written in other languages.
 
+- **[websocket-bridge](https://github.com/ginqi7/websocket-bridge)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge?style=social">
+- **[websocket-bridge-java](https://github.com/ginqi7/websocket-bridge-java)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge-java?style=social">
+- **[websocket-bridge-ts](https://github.com/ginqi7/websocket-bridge-ts)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge-ts?style=social">
+- **[websocket-bridge-python](https://github.com/ginqi7/websocket-bridge-python)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge-python?style=social">
+- **[websocket-bridge-ruby](https://github.com/ginqi7/websocket-bridge-ruby)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge-ruby?style=social">
+- **[websocket-bridge-swift](https://github.com/ginqi7/websocket-bridge-swift)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge-swift?style=social">
 
+### Chart
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ginqi7&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginqi7&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
