@@ -11,6 +11,13 @@
 - An amateur enthusiast who enjoys reading and writing.
 - You can see my blog in [there](https://qiqijin.com/)
 
+### CLI
+- **[reminders-cli](https://github.com/ginqi7/reminders-cli)** A simple CLI for interacting with macOS reminders. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/reminders-cli?style=social">
+- **[org-reminders-cli](https://github.com/ginqi7/org-reminders-cli)** A CLI tool for syncing OS X Reminders with Emacs org-mode, designed to work with ginqi7/org-reminders. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/org-reminders-cli?style=social">
+- **[macos-wechat-cli](https://github.com/ginqi7/macos-wechat-cli)** A simple CLI for interacting with OS X WeChat.<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/macos-wechat-cli?style=social">
+- **[notes-publish-cli](https://github.com/ginqi7/notes-publish-cli)** A simple CLI for publishing MacOS Notes.<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/notes-publish-cli?style=social">
+- **[tproxy](https://github.com/ginqi7/tproxy)** A simple transparent proxy script for MacOS.<img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/tproxy?style=social">
+
 
 ### Emacs
 - **[dictionary-overlay](https://github.com/ginqi7/dictionary-overlay)** Emacs 插件-辅助英文阅读. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/dictionary-overlay?style=social">
