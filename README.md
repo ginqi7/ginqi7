@@ -30,6 +30,8 @@
 - **[sideline-eldoc](https://github.com/ginqi7/sideline-eldoc)** sideline-eldoc. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/sideline-eldoc?style=social">
 - **[auto-browser](https://github.com/ginqi7/auto-browser)** An Emacs plugin for controlling the browser and accessing web pages. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/auto-browser?style=social">
 - **[org-reminders](https://github.com/ginqi7/org-reminders)** An Emacs plugin for interacting between macOS Reminders and org mode. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/org-reminders?style=social">
+- **[macos-wechat-emacs](https://github.com/ginqi7/macos-wechat-emacs)** Chat in Emacs via WeChat on macOS. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/macos-wechat-emacs?style=social">
+
 #### Websocket-bridge
 Some tools enable communication between Emacs and programs written in other languages.
 
