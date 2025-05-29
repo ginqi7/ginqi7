@@ -10,7 +10,7 @@
 - An emacser dedicated to enhancing the efficiency and enjoyment of editing.
 - An amateur enthusiast who enjoys reading and writing.
 - You can see my blog in [there](https://qiqijin.com/)
-
+- ☕️ Buy Me a Coffee: https://ko-fi.com/ginqi7
 ### CLI
 - **[reminders-cli](https://github.com/ginqi7/reminders-cli)** A simple CLI for interacting with macOS reminders. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/reminders-cli?style=social">
 - **[org-reminders-cli](https://github.com/ginqi7/org-reminders-cli)** A CLI tool for syncing OS X Reminders with Emacs org-mode, designed to work with ginqi7/org-reminders. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/org-reminders-cli?style=social">
