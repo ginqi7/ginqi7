@@ -52,3 +52,6 @@ Some tools enable communication between Emacs and programs written in other lang
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ginqi7&theme=vue)
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ginqi7&theme=github-light&hide_border=true)
+
+![Repos I created](https://github-contrib-stats.vercel.app/ginqi7/created.svg)
+
