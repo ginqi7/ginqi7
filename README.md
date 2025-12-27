@@ -43,9 +43,9 @@ Some tools enable communication between Emacs and programs written in other lang
 - **[websocket-bridge-swift](https://github.com/ginqi7/websocket-bridge-swift)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ginqi7/websocket-bridge-swift?style=social">
 
 ### Chart
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ginqi7&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats-fowppp3rr-ginqi7s-projects.vercel.app/api?username=ginqi7&count_private=true&show_icons=true&include_all_commits=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginqi7&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
+![Most Used Languages](https://github-readme-stats-fowppp3rr-ginqi7s-projects.vercel.app/api/top-langs/?username=ginqi7&layout=compact&langs_count=100&hide=HTML,TeX,Roff,Makefile,CSS,Gherkin,PHP,Perl)
 
 ### Recent Activity
 
